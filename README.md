@@ -2,10 +2,17 @@
 
 CorpScrapper is a Python web scraping tool designed to effortlessly download a CSV file of comprehensive company details from [csr.gov.in](https://csr.gov.in/content/csr/global/master/home/ExploreCsrData/company-wise.html).
 
-
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+download the [chrome driver](https://chromedriver.chromium.org/downloads) to run the script with chrome.
+download the version same as the vesrion on your computer.
+
+extract it and replace it with the present version in the project folder.
+
+install Selenium in the project using 
+```bash
+pip install selenium
+```
 
 ```bash
 pip install foobar
