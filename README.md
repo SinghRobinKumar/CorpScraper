@@ -4,6 +4,11 @@ CorpScrapper is a Python web scraping tool designed to effortlessly download a C
 
 ## Installation
 
+**Prerequisites**
+
+* Before you begin, ensure that you have Python 3 installed on your computer. If not, you can download and install it from the official [Python website](https://www.python.org/downloads/).
+
+
 **ChromeDriver Setup:**
 
 Download the ChromeDriver to run the script with Chrome. Ensure that you download the version compatible with your Chrome browser. You can find the latest ChromeDriver releases [here](https://chromedriver.chromium.org/downloads).
@@ -26,17 +31,11 @@ If you encounter any issues, refer to the official [Selenium documentation](http
 
 ## Usage
 
+Open the `companies.json` file in the root directory and add the names of the companies for which you need to download data. Ensure it follows `JSON` file format:
+
+Execute the script using the following command:
 ```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+python3 script.py
 ```
 
 ## Contributing
