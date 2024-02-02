@@ -9,7 +9,6 @@ CorpScrapper is a Python web scraping tool designed to effortlessly download a C
 Download the ChromeDriver to run the script with Chrome. Ensure that you download the version compatible with your Chrome browser. You can find the latest ChromeDriver releases [here](https://chromedriver.chromium.org/downloads).
 
 Extract the downloaded ChromeDriver archive.
-
 Replace the existing version in the project folder with the one you just downloaded.
 
 **Selenium Installation:**
