@@ -9,13 +9,10 @@ download the version same as the vesrion on your computer.
 
 extract it and replace it with the present version in the project folder.
 
-install Selenium in the project using 
-```bash
-pip install selenium
-```
+install Selenium in the project using
 
 ```bash
-pip install foobar
+pip install selenium
 ```
 
 ## Usage
